@@ -3,4 +3,4 @@
 
 **NOTE:**
 
-GitHub profile README discovered thanks to the nf-core community, you should check them out [here](https://github.com/nf-core).
+GitHub profile README discovered thanks to the nf-core <a href="https://www.yodaspeak.co.uk/index.php" target="_blank"><img src="https://avatars2.githubusercontent.com/u/35520196?s=200&v=4" alt="drawing" width="25"/></a> community, you should check them out [here](https://github.com/nf-core).
