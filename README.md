@@ -8,3 +8,7 @@ GitHub profile README discovered thanks to the nf-core <a href="https://www.yoda
 Here's a kitten video for you!
 
 https://user-images.githubusercontent.com/38183826/126406387-3e5fb7f1-e923-4a74-b7ce-428755a20a81.mp4
+
+| 🔗 video source  |  💡 video feature |
+|---|---|
+|  https://pexels.com |   discovered from @botatoes  |
